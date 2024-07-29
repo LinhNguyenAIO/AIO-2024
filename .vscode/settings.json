@@ -2,5 +2,6 @@
     "sonarlint.connectedMode.project": {
         "connectionId": "linhnguyenaio",
         "projectKey": "LinhNguyenAIO_AIO-2024"
-    }
+    },
+    "python.analysis.typeCheckingMode": "off"
 }
